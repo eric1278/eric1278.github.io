@@ -4,7 +4,7 @@
 
 以下是我的一些东西：
 - [我的小说](https://eric1278.github.io/editions/chinese/novels)（包含STA的）
-- [一些代码](https://eric1278.github.io/codes)（这些代码是用Python语言写的）
+- [一些代码](https://eric1278.github.io/codes)（这些代码是用[Python语言写的](https://www.python.org)）
 
 ### 关于我
 
