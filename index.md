@@ -9,4 +9,4 @@ Here are some things of mine:
 
 Other langanges:
 
-+ [这个网站还有中文版！](https://eric1278.github.io/chinese)
++ [这个网站还有中文版！](https://eric1278.github.io/editions/chinese)
