@@ -4,4 +4,6 @@
 这里：
 http://eric1278.github.io/Minecraft_Tutorial.docx
 
+正在更新中！
+
 抱歉，因为图片上传过于繁琐，直接用Word文档代替，请谅解。
